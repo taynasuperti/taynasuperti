@@ -12,7 +12,7 @@
  ### Skills:
 <p align="rigth">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,html,css,js,bootstrap,flutter,dart,react,python,nodejs,cs,dotnet,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,html,css,js,bootstrap,flutter,dart,react,nodejs,cs,dotnet,mysql" />
   </a>
 </p>
 
